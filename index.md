@@ -3,7 +3,7 @@ title: George Pérez Marrero
 layout: default
 ---
 
-I'm a software engineer with a keen interest in cinema, photography, Formula 1, along with minimalism and mid-century and brutalist architecture. 
+Hey! I'm George, a software engineer, photographer, cinephile, minimalist, and a fan of Formula 1 (Papaya).
 
 Currently working on data warehousing solutions in healthcare management.
 

@@ -65,7 +65,7 @@
 
   blockquote {
     color: var($blockquote-color);
-    background-color: var($blockquote-background-color);
+    background-color: var($ink-70);
 
     a, a:active, a:visited {
       color: var($blockquote-link-visited-color);
@@ -120,8 +120,8 @@
   }
 
   pre.code-snippet {
-    color: var($pre-code-snippet-color);
-    background-color: var($pre-code-snippet-background-color);
+    color: var($ink-70);
+    background-color: var($ink-70);
   }
 
   footer {
@@ -211,11 +211,11 @@
   h2 {
     a {
       &.post-link, &:active.post-link, &:visited.post-link {
-        color: $grey-90-a90;
+        color: $white-100;
       }
 
       &:hover.post-link {
-        color: $grey-50;
+        color: $grey-70;
       }
     }
   }
